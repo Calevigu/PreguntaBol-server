@@ -1,0 +1,10 @@
+const {Router}=require("express");
+
+const router=Router();
+
+router.get("/home",()=>{
+    console.log("HOLA ESTOY EN HOME")
+});
+
+module.exports=router;
+

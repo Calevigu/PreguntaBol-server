@@ -1,0 +1,31 @@
+{
+    "trivia": [
+      {
+        "pregunta": "¿Cuál es la capital de Bolivia?",
+        "respuestas": [
+          "La paz",
+          "St cruz",
+          "Sucre"
+        ],
+        "respuesta_correcta": "París"
+      },
+      {
+        "pregunta": "¿Cuantos departamentos tiene Bolivia?",
+        "respuestas": [
+          "3",
+          "4",
+          "5"
+        ],
+        "respuesta_correcta": "3"
+      },
+      {
+        "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+        "respuestas": [
+          "Venus",
+          "Júpiter",
+          "Saturno"
+        ],
+        "respuesta_correcta": "Júpiter"
+      }
+    ]
+}

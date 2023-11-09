@@ -1,5 +1,5 @@
 {
-    "trivia": [
+    "geography": [
       {
         "pregunta": "¿Cuál es la capital de Bolivia?",
         "respuestas": [
@@ -7,25 +7,25 @@
           "St cruz",
           "Sucre"
         ],
-        "respuesta_correcta": "París"
+        "respuesta_correcta": "Sucre"
       },
       {
         "pregunta": "¿Cuantos departamentos tiene Bolivia?",
         "respuestas": [
-          "3",
-          "4",
-          "5"
+          "9",
+          "8",
+          "7"
         ],
-        "respuesta_correcta": "3"
+        "respuesta_correcta": "9"
       },
       {
-        "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+        "pregunta": "¿Cuál es la población actual de Bolivia?",
         "respuestas": [
-          "Venus",
-          "Júpiter",
-          "Saturno"
+          " 20 millones de personas",
+          " 15 millones de personas",
+          " 11 millones de personas"
         ],
-        "respuesta_correcta": "Júpiter"
+        "respuesta_correcta": " 11 millones de personas"
       }
     ]
 }

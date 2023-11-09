@@ -27,5 +27,129 @@
         ],
         "respuesta_correcta": " 11 millones de personas"
       }
-    ]
+    ],
+  "deportes": [
+    {
+      "pregunta": "¿De que ciudad es el equipo de futbol Bolivar?",
+      "respuestas": ["Cochabamba", "Tarija", "La Paz"],
+      "respuesta_correcta": "La Paz"
+    },
+    {
+      "pregunta": "¿De que ciudad es el equipo de futbol The Strongest",
+      "respuestas": ["La Paz", "Chuquisaca", "Cochabamba"],
+      "respuesta_correcta": "La Paz"
+    },
+    {
+      "pregunta": "¿De que ciudad es el equipo de futbol Blooming",
+      "respuestas": ["Tarija", "Trinidad", "Santa Cruz de la Sierra"],
+      "respuesta_correcta": "Santa Cruz de la Sierra"
+    },
+    {
+      "pregunta": "¿De que ciudad es el equipo de futbol Oriente Petrolero",
+      "respuestas": ["Oruro", "Santa Cruz de la Sierra", "La Paz"],
+      "respuesta_correcta": "Santa Cruz de la Sierra"
+    },
+    {
+      "pregunta": "¿De que ciudad es el equipo de futbol Royal Pari",
+      "respuestas": ["La Paz", "Chuquisaca", "El Alto"],
+      "respuesta_correcta": "El Alto"
+    },
+    {
+      "pregunta": "¿De que ciudad es el equipo de futbol Aurora",
+      "respuestas": ["Quillacollo", "Tarija", "Cochabamba"],
+      "respuesta_correcta": "Cochabamba"
+    },
+    {
+      "pregunta": "¿Cual es el club de futbol mas antiguo de Bolivia?",
+      "respuestas": ["Bolivar", "Blooming", "The Strongest"],
+      "respuesta_correcta": "The Strongest"
+    },
+    {
+      "pregunta": "¿Cual es el equipo mas copero de Bolivia?",
+      "respuestas": ["Blooming", "Bolivar", "The Strongest"],
+      "respuesta_correcta": "Bolivar"
+    },
+    {
+      "pregunta": "En que año se fundo el club de futbol Wilstermann",
+      "respuestas": ["1943", "1953", "1949"],
+      "respuesta_correcta": "1949"
+    },
+    {
+      "pregunta": "¿Como es tambien llamado el club de futbol The Strongest",
+      "respuestas": ["El Tigre", "El Aguila", "El Leon"],
+      "respuesta_correcta": "El Tigre"
+    },
+    {
+      "pregunta": "Como se lo conoce tambien al club de futbol wilstermann",
+      "respuestas": ["El Avion", "El Aviador", "El Aviator"],
+      "respuesta_correcta": "El Aviador"
+    },
+    {
+      "pregunta": "¿Que año fue fundado el Club Bolivar",
+      "respuestas": ["1926", "1924", "1925"],
+      "respuesta_correcta": "1925"
+    },
+    {
+      "pregunta": "¿Que color de uniforme tiene el equipo de Oriente Petrolero",
+      "respuestas": ["Verde-Blanco", "Azul-Blanco", "Amarillo-Blanco"],
+      "respuesta_correcta": "Verde-Blanco"
+    },
+    {
+      "pregunta": "¿Cual es el nombre completo del Chavo Salvatierra?",
+      "respuestas": [
+        "Juan Claudio Salvatierra Arevalo",
+        "Jose Carlos Salvatierra Arebalo",
+        "Juan Carlos Salvatierra Arevalo"
+      ],
+      "respuesta_correcta": "Juan Carlos Salvatierra Arevalo"
+    },
+    {
+      "pregunta": "En que año nacio el corredor de motos Chavo Salvatierra?",
+      "respuestas": ["1975", "1979", "1976"],
+      "respuesta_correcta": "1979"
+    },
+    {
+      "pregunta": "Como se llama el stadium donde juega la seleccion Boliviana",
+      "respuestas": ["German Silez", "Hernando Silez", "Hernesto Silez"],
+      "respuesta_correcta": "Hernando Silez"
+    },
+    {
+      "pregunta": "¿En que año Bolivia Clasifico al mundial de futbol por ultima vez?",
+      "respuestas": ["1990", "1998", "1994"],
+      "respuesta_correcta": "1994"
+    },
+    {
+      "pregunta": "A que altitud se encuentra el stadium de futbol Hernando Silez",
+      "respuestas": ["3633 msnm", "3637 msnm", "3636 msnm"],
+      "respuesta_correcta": "3637 msnm"
+    },
+    {
+      "pregunta": "Entre que equipos de futbol se juega el clasico cruceño",
+      "respuestas": [
+        "Bolivar-Oriente Petrolero",
+        "Blooming-Oriente Petrolero",
+        "Aurora-Oriente Petrolero"
+      ],
+      "respuesta_correcta": "Blooming-Oriente Petrolero"
+    },
+    {
+      "pregunta": "¿De que ciudad es el equipo de futbol Real Tomayapo",
+      "respuestas": ["Tarija", "Trinidad", "Potosi"],
+      "respuesta_correcta": "Tarija"
+    },
+    {
+      "pregunta": "En que año se fundo el club de futbol Auroa",
+      "respuestas": ["1935", "1925", "1945"],
+      "respuesta_correcta": "1935"
+    },
+    {
+      "pregunta": "Como se lo conoce tambien al club de futbol Aurora",
+      "respuestas": [
+        "El equipo poblano",
+        "El equipo del pueblo",
+        "El equipo popular"
+      ],
+      "respuesta_correcta": "El equipo del pueblo"
+    }
+  ]
 }

@@ -1,9 +1,14 @@
 require("dotenv").config();
+const server = require("./src/app.js");
+const { conn } = require("./src/db.js");
 
 const { PORT } = process.env;
-const router = require("./src/app.js");
-
-const express = require("express");
-const server = express();
-server.use("/", router);
-server.listen(PORT, console.log(`server listening on port ${PORT}`));
+conn
+  .sync({ force: false })
+  .then(() => {
+    server.listen(PORT, async () => {
+      // await saveCountriesToDatabase();
+      console.log(`Server listening on port ${PORT}`);
+    });
+  })
+  .catch((error) => console.error(error));

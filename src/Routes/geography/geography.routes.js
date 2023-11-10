@@ -1,10 +1,10 @@
 const { Router } = require("express");
-const getAllGeographys = require("../../controllers/geography/getAllGeographys");
-const getGeographyId = require("../../controllers/geography/getGeographyId");
+const getAllGeography = require("../../controllers/geography/getAllGeographys.js");
+const getGeographyId = require("../../controllers/geography/getGeographyId.js");
 
 const router = Router();
 
-router.get("/", getAllGeographys);
+router.get("/", getAllGeography);
 router.get("/:id", getGeographyId);
 
 module.exports = router;

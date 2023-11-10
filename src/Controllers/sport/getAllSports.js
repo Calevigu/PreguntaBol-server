@@ -1,6 +1,7 @@
-const { Sport,Category} = require("../../db.js");
+const { Sport, Category } = require("../../db.js");
 
 const getAllSports = async (req, res) => {
+  console.log(Sport);
   try {
     const sports = await Sport.findAll({
       include: Category,

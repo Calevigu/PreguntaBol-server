@@ -2,16 +2,19 @@
   "trivia": {
     "geography": [
       {
+        "id":1,
         "pregunta": "¿Cuál es la capital de Bolivia?",
         "respuestas": ["La paz", "St cruz", "Sucre"],
         "respuesta_correcta": "Sucre"
       },
       {
+        "id":2,
         "pregunta": "¿Cuantos departamentos tiene Bolivia?",
         "respuestas": ["9", "8", "7"],
         "respuesta_correcta": "9"
       },
       {
+        "id":3,
         "pregunta": "¿Cuál es la población actual de Bolivia?",
         "respuestas": [
           " 20 millones de personas",
@@ -23,71 +26,85 @@
     ],
     "deportes": [
       {
+        "id":1,
         "pregunta": "¿De que ciudad es el equipo de futbol Bolivar?",
         "respuestas": ["Cochabamba", "Tarija", "La Paz"],
         "respuesta_correcta": "La Paz"
       },
       {
+        "id":2,
         "pregunta": "¿De que ciudad es el equipo de futbol The Strongest",
         "respuestas": ["La Paz", "Chuquisaca", "Cochabamba"],
         "respuesta_correcta": "La Paz"
       },
       {
+        "id":3,
         "pregunta": "¿De que ciudad es el equipo de futbol Blooming",
         "respuestas": ["Tarija", "Trinidad", "Santa Cruz de la Sierra"],
         "respuesta_correcta": "Santa Cruz de la Sierra"
       },
       {
+        "id":4,
         "pregunta": "¿De que ciudad es el equipo de futbol Oriente Petrolero",
         "respuestas": ["Oruro", "Santa Cruz de la Sierra", "La Paz"],
         "respuesta_correcta": "Santa Cruz de la Sierra"
       },
       {
+        "id":5,
         "pregunta": "¿De que ciudad es el equipo de futbol Royal Pari",
         "respuestas": ["La Paz", "Chuquisaca", "El Alto"],
         "respuesta_correcta": "El Alto"
       },
       {
+        "id":6,
         "pregunta": "¿De que ciudad es el equipo de futbol Aurora",
         "respuestas": ["Quillacollo", "Tarija", "Cochabamba"],
         "respuesta_correcta": "Cochabamba"
       },
       {
+        "id":7,
         "pregunta": "¿Cual es el club de futbol mas antiguo de Bolivia?",
         "respuestas": ["Bolivar", "Blooming", "The Strongest"],
         "respuesta_correcta": "The Strongest"
       },
       {
+        "id":8,
         "pregunta": "¿Cual es el equipo mas copero de Bolivia?",
         "respuestas": ["Blooming", "Bolivar", "The Strongest"],
         "respuesta_correcta": "Bolivar"
       },
       {
+        "id":9,
         "pregunta": "En que año se fundo el club de futbol Wilstermann",
         "respuestas": ["1943", "1953", "1949"],
         "respuesta_correcta": "1949"
       },
       {
+        "id":10,
         "pregunta": "¿Como es tambien llamado el club de futbol The Strongest",
         "respuestas": ["El Tigre", "El Aguila", "El Leon"],
         "respuesta_correcta": "El Tigre"
       },
       {
+        "id":11,
         "pregunta": "Como se lo conoce tambien al club de futbol wilstermann",
         "respuestas": ["El Avion", "El Aviador", "El Aviator"],
         "respuesta_correcta": "El Aviador"
       },
       {
+        "id":12,
         "pregunta": "¿Que año fue fundado el Club Bolivar",
         "respuestas": ["1926", "1924", "1925"],
         "respuesta_correcta": "1925"
       },
       {
+        "id":13,
         "pregunta": "¿Que color de uniforme tiene el equipo de Oriente Petrolero",
         "respuestas": ["Verde-Blanco", "Azul-Blanco", "Amarillo-Blanco"],
         "respuesta_correcta": "Verde-Blanco"
       },
       {
+        "id":14,
         "pregunta": "¿Cual es el nombre completo del Chavo Salvatierra?",
         "respuestas": [
           "Juan Claudio Salvatierra Arevalo",
@@ -97,26 +114,31 @@
         "respuesta_correcta": "Juan Carlos Salvatierra Arevalo"
       },
       {
+        "id":15,
         "pregunta": "En que año nacio el corredor de motos Chavo Salvatierra?",
         "respuestas": ["1975", "1979", "1976"],
         "respuesta_correcta": "1979"
       },
       {
+        "id":16,
         "pregunta": "Como se llama el stadium donde juega la seleccion Boliviana",
         "respuestas": ["German Silez", "Hernando Silez", "Hernesto Silez"],
         "respuesta_correcta": "Hernando Silez"
       },
       {
+        "id":17,
         "pregunta": "¿En que año Bolivia Clasifico al mundial de futbol por ultima vez?",
         "respuestas": ["1990", "1998", "1994"],
         "respuesta_correcta": "1994"
       },
       {
+        "id":18,
         "pregunta": "A que altitud se encuentra el stadium de futbol Hernando Silez",
         "respuestas": ["3633 msnm", "3637 msnm", "3636 msnm"],
         "respuesta_correcta": "3637 msnm"
       },
       {
+        "id":19,
         "pregunta": "Entre que equipos de futbol se juega el clasico cruceño",
         "respuestas": [
           "Bolivar-Oriente Petrolero",
@@ -126,16 +148,19 @@
         "respuesta_correcta": "Blooming-Oriente Petrolero"
       },
       {
+        "id":20,
         "pregunta": "¿De que ciudad es el equipo de futbol Real Tomayapo",
         "respuestas": ["Tarija", "Trinidad", "Potosi"],
         "respuesta_correcta": "Tarija"
       },
       {
+        "id":21,
         "pregunta": "En que año se fundo el club de futbol Auroa",
         "respuestas": ["1935", "1925", "1945"],
         "respuesta_correcta": "1935"
       },
       {
+        "id":22,
         "pregunta": "Como se lo conoce tambien al club de futbol Aurora",
         "respuestas": [
           "El equipo poblano",

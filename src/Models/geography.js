@@ -5,7 +5,7 @@ module.exports = (sequelize) => {
       "Geography",
       {
         id:{
-            type:DataTypes.UUID,
+            type:DataTypes.INTEGER,
             allowNull:false,
             primaryKey:true
         },
@@ -20,7 +20,7 @@ module.exports = (sequelize) => {
         respuesta_correcta:{
             type:DataTypes.STRING,
             allowNull:false
-        }
+        },
       },
   
       { timestamps: false }

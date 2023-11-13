@@ -35,10 +35,16 @@ let capsEntries = entries.map((entry) => [
 ]);
 sequelize.models = Object.fromEntries(capsEntries);
 
-const { Sport, Geography } = sequelize.models;
+const { Sport, Geography,Category } = sequelize.models;
 
-console.log(Sport);
-console.log(Geography);
+Category.hasMany(Sport);
+Sport.belongsTo(Category);
+Category.hasMany(Geography);
+Geography.belongsTo(Category);
+
+// console.log(sequelize.models)
+// console.log(Sport);
+// console.log(Geography);
 
 module.exports = {
   ...sequelize.models, // para poder importar los modelos así: const { Product, User } = require('./db.js');
